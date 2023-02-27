@@ -1,0 +1,44 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background: linear-gradient(90deg, rgb(175, 171, 171), white);
+}
+nav {
+  background-color: #e3f2fd;
+  opacity: 80%;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+div h3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+img {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+div#experiencia {
+  margin-top: 50px;
+}
+
+div#listaexp {
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+ul li {
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+ul li.dataLi {
+  list-style-type: square;
+}
